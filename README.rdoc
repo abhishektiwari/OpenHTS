@@ -1,0 +1,30 @@
+== OpenHTS
+
+An open source hormone time series analysis package in Python. Currently 
+supports various entropies such as Approximate entropy (ApEn), Sample 
+entropy(SampEn), Multiscale Entropy(MSE) and few basic hormone pulse
+-detection algorithms. It also implements the various HPA-axis models 
+available in CellML format to create simulated time course patterns. 
+This package is currently under development. 
+
+== Dependencies
+
+* Python 2.5 or higher
+* Qt version 4
+* PyQt v4
+* matplotlib
+* NumPy
+
+
+
+== Help & Documentation
+For more information about installing, running and configuring OpenHTS
+including a list of known issues and troubleshooting information, 
+refer to: http://wiki.github.com/abhishektiwari/OpenHTS/
+
+
+== Authors and copyright
+© 2010 Abhishek Tiwari (abhishek@abhishek-tiwari.com)
+
+The software included in this package is copyrighted freeware
+distributed under the terms and conditions as specified in file LICENSE.

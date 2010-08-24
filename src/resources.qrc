@@ -1,0 +1,28 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+<file alias="filenew.png">images/filenew.png</file>
+<file alias="fileopen.png">images/fileopen.png</file>
+<file alias="filesave.png">images/filesave.png</file>
+<file alias="filesaveas.png">images/filesaveas.png</file>
+<file alias="filequit.png">images/filequit.png</file>
+<file alias="editadd.png">images/editadd.png</file>
+<file alias="editedit.png">images/editedit.png</file>
+<file alias="editdelete.png">images/editdelete.png</file>
+<file alias="helphelp.png">images/helphelp.png</file>
+<file alias="helpabout.png">images/helpabout.png</file>
+<file alias="toolCellML.png">images/toolCellML.png</file>
+<file alias="toolentropy.png">images/toolentropy.png</file>
+<file alias="toolpulse.png">images/toolpulse.png</file>
+<file alias="fileexport.png">images/fileexport.png</file>
+<file alias="fileimport.png">images/fileimport.png</file>
+<file alias="icon.png">images/icon.png</file>
+<file alias="back.png">images/back.png</file>
+<file alias="home.png">images/home.png</file>
+
+<file>help/entropy.html</file>
+<file>help/pulse.html</file>
+<file>help/input.html</file>
+<file>help/tutorial.html</file>
+<file>help/index.html</file>
+</qresource>
+</RCC>
